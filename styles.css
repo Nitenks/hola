@@ -380,7 +380,7 @@ header.jumbotron .btn-primary:hover {
 
 /* Parallax Section Styles */
 .parallax {
-    background-image: url('FOOTER.JPG');
+    background-image: url('FOOTER.jpg');
     height: 500px;
     background-attachment: fixed;
     background-size: cover;
