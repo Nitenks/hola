@@ -323,7 +323,7 @@ body {
 
 /* Header Section Styles */
 header.jumbotron {
-    background: url('FONDO/background.png') no-repeat center center;
+    background: url('background.png') no-repeat center center;
     background-size: cover;
     color: white;
     padding: 150px 0;
@@ -380,7 +380,7 @@ header.jumbotron .btn-primary:hover {
 
 /* Parallax Section Styles */
 .parallax {
-    background-image: url('FONDO/FOOTER.JPG');
+    background-image: url('FOOTER.JPG');
     height: 500px;
     background-attachment: fixed;
     background-size: cover;
